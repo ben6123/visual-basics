@@ -5,6 +5,8 @@ Module Program
         Dim t As Integer
         Console.WriteLine("input t")
         t = Console.ReadLine()
+        ' A Select Case statement allows a variable to be tested for equality against a list of values. Each value is called a case,
+        ' and the variable being switched on is checked for each select case.
         Select Case t
             Case 1
                 Console.WriteLine("January")
