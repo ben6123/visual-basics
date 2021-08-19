@@ -14,7 +14,7 @@ Module Program
         ElseIf (a < b) Then
             Console.WriteLine(c)
         Else
-            Console.WriteLine("2 hoursofcode")
+            Console.WriteLine("2 hours of code")
 
         End If
     End Sub
